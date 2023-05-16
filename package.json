@@ -4,5 +4,12 @@
   "description": "hj sdk demo",
   "main": "index.js",
   "author": "zhaobin.ni",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+        "type": "git",
+        "url": "https://github.com/bingofree2015/hj-sdk-demo"
+    },
+    "keywords": [
+        "hj-sdk-demo"
+    ]  
 }
